@@ -1,6 +1,6 @@
 <h1 align="center">
 
-<img src="/images/avatar.svg" alt="ig news" width="100px"/>
+<img src="./public/images/avatar.svg" alt="ig news" width="100px"/>
 
 </h1>
 
