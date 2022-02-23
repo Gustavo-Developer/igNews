@@ -65,7 +65,7 @@ As seguintes tecnologias foram utilizadas no projeto:
 
 ```bash
 # Clone this project
-$ git clone https://github.com/khalleb/ignews
+$ git clone https://github.com/Gustavo-Developer/ignews
 
 # Access
 $ cd ignews
