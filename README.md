@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  IGNEWS - Portal de notícias 📰🚀
+  IGNEWS - Portal de notícias Online📰🚀
   <br>
   <br>
 
